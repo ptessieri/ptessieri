@@ -7,8 +7,8 @@ With over a decade of hands-on experience in the utility industry, I specialize 
 ---
 
 ## 🔧 Skills & Technologies
-- **Programming Languages**: Python, C++, JavaScript
-- **Frameworks & Tools**: Godot, pygame, SQL, Git, NumPy, Pandas, Scikit-Learn
+- **Programming Languages**: Python, C#, GDScript
+- **Frameworks & Tools**: Godot, pygame, Git, NumPy, Pandas, Scikit-Learn
 - **Technical Specialties**: Data Analysis, Machine Learning, 2D Game Development, Interactive Visualizations
 
 ---
